@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ianro\\Desktop\\Snake\\Snake.csproj": {}
+    "C:\\Users\\ianro\\Desktop\\Kodehode\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ianro\\Desktop\\Snake\\Snake.csproj": {
+    "C:\\Users\\ianro\\Desktop\\Kodehode\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ianro\\Desktop\\Snake\\Snake.csproj",
+        "projectUniqueName": "C:\\Users\\ianro\\Desktop\\Kodehode\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "C:\\Users\\ianro\\Desktop\\Snake\\Snake.csproj",
+        "projectPath": "C:\\Users\\ianro\\Desktop\\Kodehode\\Snake\\Snake.csproj",
         "packagesPath": "C:\\Users\\ianro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ianro\\Desktop\\Snake\\obj\\",
+        "outputPath": "C:\\Users\\ianro\\Desktop\\Kodehode\\Snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ianro\\AppData\\Roaming\\NuGet\\NuGet.Config"
