@@ -1,6 +1,6 @@
-Video Game Pong Game
+**Game** Snake
 
-*A simple Pong Game made in Visual Studio Code. 
+*A simple Snake Game made in Visual Studio Code. 
 
 *This project shows basic game development principles, 
 
@@ -21,13 +21,13 @@ Features
 
 Tech used
 
-Language: Java Script, HTML,
+Language: Java Script, HTML, C#, CSS
 
 
 
 How to run the game 
 
-1. Clone repository : https://github.com/Jonesey86/Pong-Game
+1. Clone repository : https://github.com/Jonesey86/Snake
 
 2. Open Open the solution file (`Pong-Game.sln`) in Visual Studio Code.
 
