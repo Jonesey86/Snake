@@ -43,11 +43,11 @@ How to play :video_game:
 - Click Start button.
 
 2.How to play the game
-Player has to use up and down key's to send the ball back to the AI Player.
+Player has to use up and down key's and left and right key's to collect the green brick to make the snake longer, If the snake touches itself its game over.
 
 3. Win or Reset
 The game detects wins or loss and displays the result, Best of 5 type of game.
 
 *Click Reset to restart the game*.
 
-* Ive also added a Pong Game.png, So you can see what the game looks like.
+* Ive also added a Snake Game.png, So you can see what the game looks like.
