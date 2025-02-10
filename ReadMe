@@ -1,4 +1,4 @@
-**Game** Snake 🎮
+🎮 Game Snake 🎮
 
 *A simple Snake Game made in Visual Studio Code. 
 
@@ -19,13 +19,13 @@ Features
 *Win detection Detects when a player wins or loses the game.
 
 
-Tech used 📚
+📚 Tech used 📚
 
 Language: Java Script, HTML, C#, CSS
 
 
 
-How to run the game 🎮
+🎮 How to run the game 🎮
 
 1. Clone repository : https://github.com/Jonesey86/Snake
 
@@ -37,7 +37,7 @@ How to run the game 🎮
 
 
 
-How to play :video_game:
+How to play 🎮
 
 1. Start the Game
 - Click Start button.
@@ -52,4 +52,4 @@ The game detects wins or loss and displays the result, Best of 5 type of game.
 
 * Ive also added a Snake Game.png, So you can see what the game looks like.
 
-*If you have any questions, please feel free to reach out to me via Email.
+*If you have any questions, please feel free to reach out to me via Email 
